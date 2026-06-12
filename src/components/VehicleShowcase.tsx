@@ -110,7 +110,7 @@ export function VehicleShowcase({ onOpenModal }: Props) {
                     aria-label="Solicitar vídeo"
                     className="inline-flex items-center justify-center gap-1.5 rounded-lg border border-border bg-background/60 px-2 py-2 text-[11px] font-semibold text-foreground transition-colors hover:border-primary/40 hover:bg-muted"
                   >
-                    <Video className="h-3.5 w-3.5" /> Vídeo
+                    <Video className="h-3.5 w-3.5" /> Vídeos
                   </button>
                   <button
                     onClick={onOpenModal}
@@ -125,7 +125,7 @@ export function VehicleShowcase({ onOpenModal }: Props) {
                   onClick={onOpenModal}
                   className="mt-3 inline-flex items-center justify-center gap-2 rounded-lg bg-gradient-to-r from-primary to-primary-glow px-4 py-3 text-sm font-bold text-primary-foreground shadow-md shadow-primary/30 transition-transform hover:scale-[1.02]"
                 >
-                  <Gavel className="h-4 w-4" /> Dar Lance
+                  <Gavel className="h-4 w-4" /> Acessar Catálogo Completo
                 </button>
               </div>
             </article>
