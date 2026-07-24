@@ -1,6 +1,6 @@
 // Centralized app configuration.
 // Edit this single URL to update every "Baixar Aplicativo" button on the site.
-export const APP_DOWNLOAD_URL = "https://2271cars2you1533.b-cdn.net/Cars2YouV1.apk";
+export const APP_DOWNLOAD_URL = "https://2471cars.b-cdn.net/Cars2You_V1.apk";
 
 export const COMPANY = {
   name: "Cars2You",
